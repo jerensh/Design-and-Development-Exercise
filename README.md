@@ -9,7 +9,7 @@ test package -> you can run the Test() class. It has main method in it which sho
 util package -> 
               Base() - abstract class
               
-              HouseHold() - defines household by implementing encalpsulation.
+              HouseHold() - defines household by implementing Encapsulation.
               
               HouseHoldDatabase() - extends Base() class and has overriden method and instance method which gets houseHolds which is older than 18.
               
