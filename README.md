@@ -8,8 +8,9 @@ test package -> you can run the Test() class. It has main method in it which sho
 
 util package -> 
               Base() - abstract class
+              
               HouseHold() - defines household by implementing encalpsulation.
               
-              HouseHoldDatabase() - extend Base() class and has overriden method and instance method which gets houseHolds which is older than 18.
+              HouseHoldDatabase() - extends Base() class and has overriden method and instance method which gets houseHolds which is older than 18.
               
               LastThenFirstComparator() - utility for comparing the lastName then firstName.
